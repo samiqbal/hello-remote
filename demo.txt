@@ -1,1 +1,2 @@
 Here is some text we are adding.
+Testing this via the command line.
